@@ -4,7 +4,7 @@ This project demonstrate the impact of global oil shocks on Asian energy markets
 Context:<br>
 The recent tensions involving Iran affect global oil markets because Iran sits near the Strait of Hormuz, where roughly 20% of global oil shipments pass.
 
-If concflict escalates:
+If conflict escalates:
 - Oil supply risk increase
 - Oil prices rise
 - Fuel prices increase
