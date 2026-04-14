@@ -1,4 +1,4 @@
-# Fuel Prices Data Warehouse & Analytics Pipeline
+# Fuel Prices Data Warehouse & Analytics
 This project demonstrate the impact of global oil shocks on Asian energy markets
 
 Context:<br>
